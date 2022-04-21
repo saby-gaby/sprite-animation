@@ -1,14 +1,14 @@
-# sprite-animation
+# Sprite animation
 
 **[Take a look at the live-version](https://saby-gaby.github.io/sprite-animation/)**
 
 ---
 
-![Mockup](./sprite-animation.png)
+![Mockup](./sneak-peek.png)
 
 ## Ramona Flowers and Scott Pilgrim in a small sprite animation.
 
-Use for fun or learn something new 
+Use for fun or learn something new.
 
 ### Used Tools
 
@@ -17,7 +17,7 @@ Use for fun or learn something new
 - [x] _flex-box_
 - [x] _css3-animations_
 - [x] _keyframes-animations_
-- [x] _css-positioning_
+- [x] _background-positioning_
 - [x] _animation-duration_
 - [x] _animation-direction_
 - [x] _animation-timing-function_
