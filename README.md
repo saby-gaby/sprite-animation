@@ -4,7 +4,7 @@
 
 ---
 
-![Mockup](./sneak-peek.png)
+![Mockup](./animation.gif)
 
 ## Ramona Flowers and Scott Pilgrim in a small sprite animation.
 
